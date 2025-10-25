@@ -1,0 +1,5 @@
+{
+  "name": "Lecture Calendar & Finance Tracker",
+  "description": "An interactive calendar application to schedule lectures and track the total financial amount associated with them for each day and month. All data is saved locally in your browser for persistence.",
+  "requestFramePermissions": []
+}
